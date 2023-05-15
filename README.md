@@ -2,7 +2,7 @@
 #### Windows 2000 Professional XFCE Total Conversion
 
 <p align="center">
-<img src="logo.png" alt="Chicago95 Desktop"/>
+<img src="logo.png" alt="Icon"/>
 </p>
 
 ### Installation
