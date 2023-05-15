@@ -5,9 +5,7 @@
 <img src="logo.png" alt="Icon"/>
 </p>
 
-### Installation
-Choose language at the top of "install_requirements.sh" file: LANGUAGE="EN" (EN (English) / GR (Greek))
-
+### Installation of requirements
 In order to run type "chmod +x install_requirements.sh && sudo ./install_requirements.sh" in terminal to install system requirements.
 
 ### Requirements
