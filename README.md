@@ -5,6 +5,8 @@
 <img src="logo.png" alt="Icon"/>
 </p>
 
+<a href="[url](https://www.opencode.net/etondy/win2k/-/archive/main/win2k-main.tar.gz)">Download</a>
+
 ### Installation of requirements
 In order to run type "chmod +x install_requirements.sh && sudo ./install_requirements.sh" in terminal to install system requirements.
 
