@@ -17,6 +17,10 @@ In order to run type "chmod +x install_requirements.sh && sudo ./install_require
 - gtk2-engines-pixbuf (Recommended for GTK2 applications)
 - A Window compositor
 
+### Screenshots
+<img src="d1.png" alt="Icon"/>
+<img src="d2.png" alt="Icon"/>
+
 ### Code and license
 License: GPL-3.0+/MIT
 
