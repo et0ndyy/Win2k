@@ -5,10 +5,9 @@
 <img src="logo.png" alt="Icon"/>
 </p>
 
-<h1><a href="https://archive.org/details/win-2k_202412">Download</a></h1>
-
 ### Installation of requirements
-In order to run type "chmod +x install_requirements.sh && sudo ./install_requirements.sh" in terminal to install system requirements.
+Install Linux Mint Xfce 21 Vanessa: <h3><a href="https://linuxmint.com/edition.php?id=301">Download</a></h3>
+Download and install Windows 2000 Toolkit: <h3><a href="https://archive.org/details/win-2k_202412">Download</a></h3>
 
 ### Requirements
 
