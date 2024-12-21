@@ -5,9 +5,11 @@
 <img src="logo.png" alt="Icon"/>
 </p>
 
+
 ### Installation of requirements
-Install Linux Mint Xfce 21 Vanessa: <h3><a href="https://linuxmint.com/edition.php?id=301">Download</a></h3>
-Download and install Windows 2000 Toolkit: <h3><a href="https://archive.org/details/win-2k_202412">Download</a></h3>
+Install Linux Mint Xfce 21 Vanessa: <a href="https://linuxmint.com/edition.php?id=301">Download</a>
+Install Windows 2000 Total Conversion Toolkit: <a href="https://archive.org/details/win-2k_202412">Download</a>
+
 
 ### Requirements
 
