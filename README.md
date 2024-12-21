@@ -16,10 +16,9 @@ Install Windows 2000 Total Conversion Toolkit: <a href="https://archive.org/deta
 
 ### Requirements
 
-- GTK+ 3.22 or 3.24
-- Xfce 4.12, 4.14, 4.16
-- gtk2-engines-pixbuf (Recommended for GTK2 applications)
-- A Window compositor
+- Clean installation of Linux Mint Xfce 21 Vanessa
+- Disabled Internet connection during installation
+- The system will break if receive updates
 
 ### Screenshots
 <img src="d12.png" alt="Icon"/>
